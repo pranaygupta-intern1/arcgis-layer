@@ -28,7 +28,8 @@ export const websceneId = "0b7e49b146c54407bb041a0d7303d5d0";
 export const sections = [
   new HomeSection({
 
-           content: (that: any) => (<p>T&#x16b;ranga is a library in Central Christchurch and the main library of Christchurch City Libraries, New Zealand. It is the largest library in the South Island and the third-biggest in New Zealand. The previous Christchurch Central Library opened in 1982 on the corner of Oxford Terrace and Gloucester Street but was closed after the February 2011 Christchurch earthquake and demolished in 2014 to make way for the Convention Centre Precinct.</p>),
+           content: (that: any) => (<p>
+           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus rerum magnam quo vitae eaque, rem repellat inventore fugiat, officia, veritatis molestias. Aliquam quam debitis facere dolor porro nemo. Hic, ducimus? Accusamus, mollitia. Molestiae, in ex modi alias et rerum. Eligendi soluta, culpa adipisci molestias earum voluptatum nam reprehenderit voluptatem natus.</p>),
   }),
   new FloorsSection({
     minFloor: 0,
